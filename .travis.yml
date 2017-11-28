@@ -1,6 +1,7 @@
+sudo: required
 # Clean and don't fail
 install:
-  - apt-get install hugo
+  - sudo apt-get install hugo
   - rm -rf public || exit 0
 
 # Build the website
