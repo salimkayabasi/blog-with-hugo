@@ -1,3 +1,6 @@
+publishDir = "docs"
+
+
 # hostname (and path) to the root eg. http://spf13.com/
 baseurl = "http://www.example.com"
 
