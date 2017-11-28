@@ -9,7 +9,7 @@ before_script:
   - rm -rf public || exit 0
 
 script:
-  - hugo  
+  - hugo
 
 deploy:
   provider: pages
