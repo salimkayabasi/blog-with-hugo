@@ -12,7 +12,8 @@ languageCode = "en-US"
 metaDataFormat = "yaml"
 
 # Theme to use (located in /themes/THEMENAME/)
-theme = "hyde-y"
+# just change the git url on travis file
+theme = "current-theme"
 
 # Pagination
 paginate = 10
