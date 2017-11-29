@@ -5,7 +5,7 @@ title = "hugo based static webpage"
 copyright = "(c) 2015 your Copyright"
 
 # Language
-languageCode = "en-EN"
+languageCode = "en-US"
 
 # Metadata format
 # "yaml", "toml", "json"
