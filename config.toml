@@ -17,6 +17,7 @@ theme = "hyde-y"
 # Pagination
 paginate = 10
 paginatePath = "page"
+staticDir = ["static"]
 
 # Enable Disqus integration
 disqusShortname = "your_disqus_shortname"
