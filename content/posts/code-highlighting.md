@@ -1,11 +1,9 @@
 ---
 title: "code highlighting"
 date: 2017-11-29T10:29:28+01:00
-draft: false
 tags: [ "Coding", "Highlighting" ]
 series: [ "How to" ]
 ---
-
 
 #### inline highlight
 
