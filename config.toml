@@ -1,11 +1,8 @@
-# hostname (and path) to the root eg. http://spf13.com/
-baseurl = "http://www.example.com"
-
-# Site title
-title = "sitename"
+baseurl = "https://hugo-blog.salimkayabasi.com"
+title = "hugo based static webpage"
 
 # Copyright
-copyright = "(c) 2015 yourname."
+copyright = "(c) 2015 your Copyright"
 
 # Language
 languageCode = "en-EN"
@@ -61,7 +58,7 @@ disqusShortname = "your_disqus_shortname"
     googleAnalytics = "Your Google Analytics tracking code"
 
     # Sidebar social links.
-    github = "enten/hugo-boilerplate" # Your Github profile ID
+    github = "salimkayabasi/blog-with-hugo/" # Your Github profile ID
     bitbucket = "" # Your Bitbucket profile ID
     linkedin = "" # Your LinkedIn profile ID (from public URL)
     googleplus = "" # Your Google+ profile ID
