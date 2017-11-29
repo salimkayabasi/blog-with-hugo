@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on hugo based static webpage</title>
+    <link>https://hugo-blog.salimkayabasi.com/tags/</link>
+    <description>Recent content in Tags on hugo based static webpage</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <managingEditor>yourname@example.com (yourname)</managingEditor>
+    <webMaster>yourname@example.com (yourname)</webMaster>
+    <copyright>(c) 2015 your Copyright</copyright>
+    <lastBuildDate>Wed, 29 Nov 2017 10:29:28 +0100</lastBuildDate>
+    
+	<atom:link href="https://hugo-blog.salimkayabasi.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Coding</title>
+      <link>https://hugo-blog.salimkayabasi.com/tags/coding/</link>
+      <pubDate>Wed, 29 Nov 2017 10:29:28 +0100</pubDate>
+      <author>yourname@example.com (yourname)</author>
+      <guid>https://hugo-blog.salimkayabasi.com/tags/coding/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Development</title>
+      <link>https://hugo-blog.salimkayabasi.com/tags/development/</link>
+      <pubDate>Wed, 29 Nov 2017 11:28:52 +0100</pubDate>
+      <author>yourname@example.com (yourname)</author>
+      <guid>https://hugo-blog.salimkayabasi.com/tags/development/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Highlighting</title>
+      <link>https://hugo-blog.salimkayabasi.com/tags/highlighting/</link>
+      <pubDate>Wed, 29 Nov 2017 10:29:28 +0100</pubDate>
+      <author>yourname@example.com (yourname)</author>
+      <guid>https://hugo-blog.salimkayabasi.com/tags/highlighting/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Images</title>
+      <link>https://hugo-blog.salimkayabasi.com/tags/images/</link>
+      <pubDate>Wed, 29 Nov 2017 10:28:52 +0100</pubDate>
+      <author>yourname@example.com (yourname)</author>
+      <guid>https://hugo-blog.salimkayabasi.com/tags/images/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Short Codes</title>
+      <link>https://hugo-blog.salimkayabasi.com/tags/short-codes/</link>
+      <pubDate>Wed, 29 Nov 2017 11:28:52 +0100</pubDate>
+      <author>yourname@example.com (yourname)</author>
+      <guid>https://hugo-blog.salimkayabasi.com/tags/short-codes/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

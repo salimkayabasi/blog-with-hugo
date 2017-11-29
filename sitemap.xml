@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://hugo-blog.salimkayabasi.com/posts/short-codes/</loc>
+    <lastmod>2017-11-29T11:28:52+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hugo-blog.salimkayabasi.com/about/</loc>
+    <lastmod>2017-11-29T10:29:28+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hugo-blog.salimkayabasi.com/posts/code-highlighting/</loc>
+    <lastmod>2017-11-29T10:29:28+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hugo-blog.salimkayabasi.com/license/</loc>
+    <lastmod>2017-11-29T10:29:28+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hugo-blog.salimkayabasi.com/posts/post-with-images/</loc>
+    <lastmod>2017-11-29T10:28:52+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hugo-blog.salimkayabasi.com/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://hugo-blog.salimkayabasi.com/tags/coding/</loc>
+    <lastmod>2017-11-29T10:29:28+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://hugo-blog.salimkayabasi.com/tags/development/</loc>
+    <lastmod>2017-11-29T11:28:52+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://hugo-blog.salimkayabasi.com/tags/highlighting/</loc>
+    <lastmod>2017-11-29T10:29:28+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://hugo-blog.salimkayabasi.com/series/how-to/</loc>
+    <lastmod>2017-11-29T11:28:52+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://hugo-blog.salimkayabasi.com/tags/images/</loc>
+    <lastmod>2017-11-29T10:28:52+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://hugo-blog.salimkayabasi.com/posts/</loc>
+    <lastmod>2017-11-29T11:28:52+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://hugo-blog.salimkayabasi.com/series/</loc>
+    <lastmod>2017-11-29T11:28:52+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://hugo-blog.salimkayabasi.com/tags/short-codes/</loc>
+    <lastmod>2017-11-29T11:28:52+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://hugo-blog.salimkayabasi.com/tags/</loc>
+    <lastmod>2017-11-29T10:29:28+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://hugo-blog.salimkayabasi.com/topics/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://hugo-blog.salimkayabasi.com/</loc>
+    <lastmod>2017-11-29T11:28:52+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+</urlset>

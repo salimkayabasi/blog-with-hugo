@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on hugo based static webpage</title>
+    <link>https://hugo-blog.salimkayabasi.com/posts/</link>
+    <description>Recent content in Posts on hugo based static webpage</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <managingEditor>yourname@example.com (yourname)</managingEditor>
+    <webMaster>yourname@example.com (yourname)</webMaster>
+    <copyright>(c) 2015 your Copyright</copyright>
+    <lastBuildDate>Wed, 29 Nov 2017 11:28:52 +0100</lastBuildDate>
+    
+	<atom:link href="https://hugo-blog.salimkayabasi.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>short codes</title>
+      <link>https://hugo-blog.salimkayabasi.com/posts/short-codes/</link>
+      <pubDate>Wed, 29 Nov 2017 11:28:52 +0100</pubDate>
+      <author>yourname@example.com (yourname)</author>
+      <guid>https://hugo-blog.salimkayabasi.com/posts/short-codes/</guid>
+      <description> twitter creating a new blog post about `gohugo` :)
+&amp;mdash; Salim KAYABAŞI (@salimkayabasi) November 29, 2017  youtube    </description>
+    </item>
+    
+    <item>
+      <title>code highlighting</title>
+      <link>https://hugo-blog.salimkayabasi.com/posts/code-highlighting/</link>
+      <pubDate>Wed, 29 Nov 2017 10:29:28 +0100</pubDate>
+      <author>yourname@example.com (yourname)</author>
+      <guid>https://hugo-blog.salimkayabasi.com/posts/code-highlighting/</guid>
+      <description> inline highlight public class HelloWorld { public static void main( String[] args ) { System.out.println( &amp;quot;Hello World!&amp;quot; ); System.exit( 0 ); //success } }  var t = { a : 1 };  using gist  </description>
+    </item>
+    
+    <item>
+      <title>post with images</title>
+      <link>https://hugo-blog.salimkayabasi.com/posts/post-with-images/</link>
+      <pubDate>Wed, 29 Nov 2017 10:28:52 +0100</pubDate>
+      <author>yourname@example.com (yourname)</author>
+      <guid>https://hugo-blog.salimkayabasi.com/posts/post-with-images/</guid>
+      <description> static image external image </description>
+    </item>
+    
+  </channel>
+</rss>
