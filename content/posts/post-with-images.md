@@ -2,6 +2,8 @@
 title: "post with images"
 date: 2017-11-29T10:28:52+01:00
 draft: false
+tags: [ "Images" ]
+series: [ "How to" ]
 ---
 
 ### static image
